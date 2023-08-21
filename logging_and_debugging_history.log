@@ -1,0 +1,40 @@
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-08-20 21:55:11,951 - INFO - START logging_and_debugging =============================================
+2023-08-20 21:55:11,951 - INFO - START logging_and_debugging Start Time = 2023-08-20 21:55:11
+2023-08-20 21:55:11,951 - INFO - logging_and_debugging Step 0 - Initialize the configuration file parser
+2023-08-20 21:55:11,962 - INFO - logging_and_debugging Step 1 - Provide examples of logging Levels
+2023-08-20 21:55:11,962 - INFO - logging_and_debugging LOGGING LEVEL 20 -info -Level 20 is for general information
+2023-08-20 21:55:11,963 - WARNING - logging_and_debugging LOGGING LEVEL 30 -warning -Level 30 is to produce warnings. 
+2023-08-20 21:55:11,963 - ERROR - logging_and_debugging LOGGING LEVEL 40 -error -Level 40 is for error messages that dont stop the code
+2023-08-20 21:55:11,963 - CRITICAL - logging_and_debugging LOGGING LEVEL 50 -critical -Level 50 is for critical level errors that stop code
+2023-08-20 21:55:12,096 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-08-20 21:55:12,096 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-08-20 21:56:34,430 - INFO - PERFORMANCE logging_and_debugging The total process duration was:82.48
+2023-08-20 21:56:34,431 - INFO - PERFORMANCE logging_and_debugging Stop Time = 2023-08-20 21:56:34
+2023-08-20 21:56:34,431 - INFO - PERFORMANCE logging_and_debugging Low process duration less than 3 minutes:82.48
+2023-08-20 21:56:34,431 - INFO - PERFORMANCE logging_and_debugging Performance optimization is optional
+2023-08-20 21:56:34,431 - INFO - END logging_and_debugging =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
+                                                                                                                        
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+2023-08-20 22:04:47,105 - INFO - START logging_and_debugging =============================================
+2023-08-20 22:04:47,105 - INFO - START logging_and_debugging Start Time = 2023-08-20 22:04:47
+2023-08-20 22:04:47,105 - INFO - logging_and_debugging Step 0 - Initialize the configuration file parser
+2023-08-20 22:04:47,119 - INFO - logging_and_debugging Step 1 - Provide examples of logging Levels
+2023-08-20 22:04:47,119 - INFO - logging_and_debugging LOGGING LEVEL 20 -info -Level 20 is for general information
+2023-08-20 22:04:47,119 - WARNING - logging_and_debugging LOGGING LEVEL 30 -warning -Level 30 is to produce warnings. 
+2023-08-20 22:04:47,119 - ERROR - logging_and_debugging LOGGING LEVEL 40 -error -Level 40 is for error messages that dont stop the code
+2023-08-20 22:04:47,119 - CRITICAL - logging_and_debugging LOGGING LEVEL 50 -critical -Level 50 is for critical level errors that stop code
+2023-08-20 22:04:47,253 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\josep\\anaconda3\\lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2023-08-20 22:04:47,253 - INFO - Using writeable comtypes cache directory: 'C:\Users\josep\anaconda3\lib\site-packages\comtypes\gen'
+2023-08-20 22:06:09,609 - INFO - PERFORMANCE logging_and_debugging The total process duration was:82.50
+2023-08-20 22:06:09,609 - INFO - PERFORMANCE logging_and_debugging Stop Time = 2023-08-20 22:06:09
+2023-08-20 22:06:09,609 - INFO - PERFORMANCE logging_and_debugging Low process duration less than 3 minutes:82.50
+2023-08-20 22:06:09,609 - INFO - PERFORMANCE logging_and_debugging Performance optimization is optional
+2023-08-20 22:06:09,610 - INFO - END logging_and_debugging =============================================
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+                                                                                                                        
