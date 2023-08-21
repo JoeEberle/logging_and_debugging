@@ -9,6 +9,14 @@ Welcome to the **Logging and Debugging** repository! This project demonstrates h
 
 ![solution code Logo](code.png)
 
+## Notebook Features
+
+- Self Documenting 
+- Self Testing 
+- Easily Configurable
+- Includes Talking Code 
+- Self Logging 
+- Self Debugging 
 
 ## Features
 
