@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Logging And Debugging - Solution for Logging And Debugging
 Solution for Logging And Debugging
 
@@ -9,8 +11,6 @@ Welcome to the solution **Logging And Debugging** - an example for your projects
 Solution for Logging And Debugging
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
