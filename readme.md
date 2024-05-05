@@ -48,5 +48,5 @@ To get started with the **Logging And Debugging** solution repository, follow th
 ![Brand](brand.png)
     
 ## Deliverables or Figures
- ![additional_image](solution_stacked_sign.png)  <br>
+ 
     
