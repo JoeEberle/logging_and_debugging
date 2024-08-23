@@ -1,14 +1,14 @@
 
 ![Image image_filename](solution_sign.png)
 
-# Logging And Debugging - Solution for Logging And Debugging
-Solution for Logging And Debugging
+# Logging And Debugging - 2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple The total process duration was:0.01
+2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple The total process duration was:0.01
 
 ![Image image_filename](code.png)
 
 Welcome to the solution **Logging And Debugging** - an example for your projects
 
-Solution for Logging And Debugging
+2024-03-15 10:39:07,391 - INFO - PERFORMANCE solution_temple The total process duration was:0.01
 
 ![Image image_filename](sample.png)
 
