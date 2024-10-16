@@ -39,11 +39,8 @@ To get started with the **Logging And Debugging** solution repository, follow th
  
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
